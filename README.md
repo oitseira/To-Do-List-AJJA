@@ -1,2 +1,2 @@
-# To-Do-List-Sederhana
-Membuat To-Do-LIST Sederhana menggunakan HTML, CSS, dan JavaScript
+# To-Do-List-AJJA
+Membuat To-Do-List Sederhana menggunakan HTML, CSS, dan JavaScript
